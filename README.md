@@ -1,4 +1,4 @@
 # internship-github-practical
 ## Contributors
 
-- Danie
+- Daniel
